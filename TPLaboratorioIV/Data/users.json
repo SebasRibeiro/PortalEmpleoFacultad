@@ -1,0 +1,20 @@
+[
+    {
+        "idApi": 234234543543,
+        "email": "manu_1019@hotmail.com",
+        "password": "emita",
+        "typeOfUser": 0,
+        "description": null,
+        "alreadyAplied": 0,
+        "id": 123
+    },
+    {
+        "idApi": 2,
+        "email": "wlorant1@sbwire.com",
+        "password": "1234",
+        "typeOfUser": 0,
+        "description": null,
+        "alreadyAplied": 0,
+        "id": 123
+    }
+]

@@ -1,0 +1,37 @@
+agregar comprobaciones de usuario o pass incorrecto
+
+que no se repitan los alumnos
+
+comprobacion de edad de minimo  a maximo
+
+cuando se selecciona una "carrer id" que sea de una lista y no "cualquiera"
+
+ver empresa por cada una para alumnos
+
+filtrar empresas
+
+no agregar empresas con id repetido
+
+que no se repítan las empresas con el nombre
+
+y ver todo.
+
+
+$$$$$$$$$$$$$$$$$$
+
+usuarios que no esten bien cargados a la BDD - listo!
+
+agregar usuarios desde el admin tipo estudiante - listo!
+
+msg de error
+
+agregar filtro de empresas por nombre
+
+
+//////////  ver estudiantes por postulaciones para la empresa y admin y poder borrarlos
+
+y ver los nav para empresa(   inicio que lleve a vista inicial --
+                              listar job offer como abajo 
+                              cerrar sesion )
+
+                            ver que onda con el email (solo con ""gmail"" protocolo smtp)
